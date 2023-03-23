@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Neo4j_Demo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/2.1 SB-Get-Node-By-ID.zip!/" />
+      <root url="jar://$PROJECT_DIR$/1.1 SB-Create-Node.zip!/" />
+      <root url="jar://$PROJECT_DIR$/2.1 Setting-Up-Spring-Boot-Application.zip!/" />
+      <root url="jar://$PROJECT_DIR$/5.1 SB-Update-Node.zip!/" />
+      <root url="jar://$PROJECT_DIR$/6.1 SB-Delete-Node.zip!/" />
+      <root url="jar://$PROJECT_DIR$/4.1 SB-Get-All-Nodes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/2.1 SB-OR-Query.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3.1 SB-Get-Node-By-Property.zip!/" />
+      <root url="jar://$PROJECT_DIR$/9.1 SB-Starts-with-Query.zip!/" />
+      <root url="jar://$PROJECT_DIR$/1.1 SB-AND-Query.zip!/" />
+      <root url="jar://$PROJECT_DIR$/4.1 SB-Check-Cypher-Queries.zip!/" />
+      <root url="jar://$PROJECT_DIR$/7.1 SB-Sorting.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3.1 SB-IN-Query.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3.1 Entity-Class-Mapping-with-Spring-Data-Neo4j.zip!/" />
+      <root url="jar://$PROJECT_DIR$/5.1 SB-Cypher-Query.zip!/" />
+      <root url="jar://$PROJECT_DIR$/6.1 SB-Pagination.zip!/" />
+      <root url="jar://$PROJECT_DIR$/8.1 SB-Like-Query.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
